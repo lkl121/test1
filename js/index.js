@@ -88,8 +88,5 @@ $(function() {
           $('#todocount').text($('ol li').length);
     $('#donecount').text($('ul li').length);
     }
-
-  
-
-
+    
 })
